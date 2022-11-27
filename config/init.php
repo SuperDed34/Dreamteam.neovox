@@ -10,8 +10,8 @@ const CACHE = ROOT . '/tmp/cache';
 const LOGS = ROOT . '/tmp/logs';
 const CONFIG = ROOT . '/config';
 const LAYOUT = 'ishop';
-const PATH = 'http://dreamteam.neovox';
-const ADMIN = 'http://dreamteam.neovox/admin';
+const PATH = 'http://dreamteam.neovox:81';
+const ADMIN = 'http://dreamteam.neovox:81/admin';
 const NO_IMAGE = 'uploads/no_image.jpg';
 
 require_once ROOT.'/vendor/autoload.php';

@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/max" isTestSource="false" packagePrefix="max\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/max/helpers" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
