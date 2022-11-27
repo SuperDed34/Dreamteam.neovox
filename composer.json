@@ -1,0 +1,10 @@
+{
+ "autoload": {
+   "psr-4": {
+     "max\\": "vendor/max",
+     "app\\": "app"
+   }
+ },
+  "require": {
+  }
+}
